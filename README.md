@@ -4,11 +4,11 @@
 
 ## This is my Resume in English:
 
-[[cv_eng.pdf]]
+[cv in english](files/cv_eng.pdf)
 
 ## This is my Resume in Spanish:
 
-[[cv_esp.pdf]]
+[cv en español](files/cv_esp.pdf)
 
 ## 📫 How to reach me:
 
