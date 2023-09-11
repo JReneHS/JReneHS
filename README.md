@@ -1,6 +1,6 @@
 # Hi, I'm René 👋
 
-> Computer Systems ESCOM-IPN | Bachelor's Degree in Musician FaM UNAM | rustacean | enthusiastic Math student 
+> Computer Systems ESCOM-IPN | rustacean & Julia Lover | enthusiastic Math student | Mentor
 
 ## This is my Resume in English:
 
