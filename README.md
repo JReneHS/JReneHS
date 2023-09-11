@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me:
 
-- Email: [jrenehs@gmail.com](jrenehs@gmail.com)
+- Email: <jrenehs@gmail.com>
 - X/Twitter: [@renekimihiro](https://twitter.com/renekimihiro)
 - Linkedin: [@jrenehs](https://www.linkedin.com/in/jrenehs/)
 - Instagram: [@rene_h_s](https://www.instagram.com/rene_h_s)
