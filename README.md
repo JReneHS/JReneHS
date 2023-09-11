@@ -1,6 +1,6 @@
 # Hi, I'm René 👋
 
-> Computer Systems ESCOM-IPN | rustacean & Julia Lover | enthusiastic Math student | Mentor
+> Computer Systems ESCOM-IPN | rustacean & Julia Lover | enthusiastic Math student
 
 ## This is my Resume in English:
 
