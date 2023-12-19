@@ -8,7 +8,7 @@
 
 ## This is my Resume in Spanish:
 
-[cv en español](files/cv_esp.pdf)
+[cv en español](files/cv_esp.pdf), [cv en español con Foto](files/cv_esp2.pdf)
 
 ## 📫 How to reach me:
 
